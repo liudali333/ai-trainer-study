@@ -1,0 +1,12 @@
+{
+  "name": "ai-trainer-study",
+  "version": "2.0.0",
+  "private": true,
+  "description": "面向零基础的三级人工智能训练师备考学习项目",
+  "license": "MIT",
+  "scripts": {
+    "test": "node tests/test.cjs",
+    "build": "node scripts/build.cjs"
+  },
+  "engines": { "node": ">=20" }
+}
